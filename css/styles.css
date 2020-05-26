@@ -38,8 +38,9 @@ h3 {
 }
 .middle-container {}
 
-.bottom-container {}
-
+.bottom-container {
+  padding-botton: 50px;
+}
 .top-cloud {
   position: absolute;
   right: 300px;
