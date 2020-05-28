@@ -45,19 +45,23 @@ h3 {
   right: 300px;
   top: 50px;
 }
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
 }
+
 .mountain {
   margin-bottom: 0;
 }
+
 .mypicture {
   padding-top: 50px;
   width: 20%;
   height: 20%;
 }
+
 .skill-row {
   display: inline-block;
   width: 50%;
@@ -65,12 +69,14 @@ h3 {
   text-align: left;
   line-height: 2;
 }
+
 .computer-img {
   height:25%;
   float: left;
   width: 25%;
   margin-right: 30px;
 }
+
 .app-icon {
   height: 25%;
   width: 25%;
