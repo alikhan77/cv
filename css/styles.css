@@ -47,18 +47,22 @@ table {
   right: 300px;
   top: 50px;
 }
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
 }
+
 .mountain {
   margin-bottom: 0;
 }
+
 .mypicture {
   padding-top: 50px;
   width: 20%;
 }
+
 .skill-row {
   display: inline-block;
   width: 50%;
@@ -66,11 +70,13 @@ table {
   text-align: left;
   line-height: 2;
 }
+
 .computer-img {
   float: left;
   width: 25%;
   margin-right: 30px;
 }
+
 .app-icon {
   width: 25%;
   float: right;
