@@ -1,4 +1,3 @@
-/******************TAG SELECTORS***********************/
 a {
   color: #11999E;
 }
@@ -36,11 +35,11 @@ h3 {
   background-color: #e4f9f5;
   padding-top: 100px;
 }
-.middle-container {}
 
 .bottom-container {
   padding-botton: 50px;
 }
+
 .top-cloud {
   position: absolute;
   right: 300px;
@@ -56,4 +55,11 @@ h3 {
 }
 .mypicture {
   padding-top: 50px;
+}
+.skill-row {
+  display: inline-block;
+  width: 50%;
+  margin-left: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
