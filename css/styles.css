@@ -55,6 +55,7 @@ h3 {
 }
 .mypicture {
   padding-top: 50px;
+  width: 20%;
 }
 .skill-row {
   display: inline-block;
@@ -62,4 +63,13 @@ h3 {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+}
+.computer-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.app-icon {
+  width: 25%;
+  float: left;
 }
