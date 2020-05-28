@@ -28,7 +28,9 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
-
+table {
+  table-align: center;
+}
 /****************CLASS SELECTORS************************/
 .top-container {
   position: relative;
@@ -45,41 +47,32 @@ h3 {
   right: 300px;
   top: 50px;
 }
-
 .bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
 }
-
 .mountain {
   margin-bottom: 0;
 }
-
 .mypicture {
   padding-top: 50px;
   width: 20%;
-  height: 20%;
 }
-
 .skill-row {
   display: inline-block;
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 50px auto;
   text-align: left;
   line-height: 2;
 }
-
 .computer-img {
-  height:25%;
   float: left;
   width: 25%;
   margin-right: 30px;
 }
-
 .app-icon {
-  height: 25%;
   width: 25%;
-  float: left;
-  margin-right: 30px;
+  float: right;
+  margin-left: 30px;
 }
