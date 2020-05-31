@@ -6,7 +6,7 @@ a {
 }
 
 a:hover{
-  color: #e8e4e1;
+  color: #EAF6F6;
 }
 body {
   color: #40514E;
@@ -60,7 +60,7 @@ hr {
 }
 
 .copyright{
-  color: #e8e4e1;
+  color: #EAF6F6;
   font-size: 0.79rem;
   padding: 20px 0;
 }
