@@ -140,3 +140,9 @@ hr {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.contacth1 {
+  margin: 50px auto 0 auto;
+  font-family: Century Gothic;
+  color: #66BFBF;
+}
+  
